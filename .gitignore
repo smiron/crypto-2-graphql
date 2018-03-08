@@ -1,0 +1,4 @@
+.vs/
+csharp-graphql/bin/
+csharp-graphql/obj/
+packages/
